@@ -1,0 +1,5 @@
+train: C:/Users/DIWANSU PILANIA/Desktop/archive/License-Plate-Data/train/images
+val: C:/Users/DIWANSU PILANIA/Desktop/archive/License-Plate-Data/test/images
+
+nc: 1
+names: ["license_plate"]
